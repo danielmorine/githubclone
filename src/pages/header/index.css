@@ -20,7 +20,7 @@
     border-radius: 5px;
     height: 18px;
     font-size: 8px;
-    width: 170px;
+    width: 145px;
     padding: 5px;
     transition: width 0.5s;
 
@@ -54,8 +54,9 @@
         color: #FFF;
         margin-left: 10px;
         padding: 10px;
-        font-size: 10px;
+        font-size: 9px;
         cursor: pointer;
+        font-weight: bold;
     }
 
     .nav-container ul li:hover {

@@ -18,6 +18,9 @@ export default function Header(){
                             <li>Explore</li>
                         </ul>
                     </nav>
+                <div>
+                    
+                </div>
             </div>
             
         </div>
